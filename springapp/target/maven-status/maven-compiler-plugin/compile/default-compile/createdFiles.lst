@@ -1,0 +1,5 @@
+com/examly/springapp/repository/TaskRepository.class
+com/examly/springapp/model/Task.class
+com/examly/springapp/SpringappApplication.class
+com/examly/springapp/exception/ResourceNotFoundException.class
+com/examly/springapp/controller/TaskController.class

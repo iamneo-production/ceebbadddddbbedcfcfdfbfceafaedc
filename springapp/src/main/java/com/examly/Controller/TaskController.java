@@ -1,4 +1,4 @@
-package com.examly.springapp.controller;
+package com.examly.Controller;
 
 import java.util.List;
 
@@ -13,9 +13,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.examly.springapp.exception.ResourceNotFoundException;
-import com.examly.springapp.model.Task;
-import com.examly.springapp.repository.TaskRepository;
+import com.examly.Exception.ResourceNotFoundException;
+import com.examly.Model.Task;
+import com.examly.Repository.TaskRepository;
 
 @RestController
 @RequestMapping("")
